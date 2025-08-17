@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/doingWhat/static/css/main.57964d29.css",
-    "main.js": "/doingWhat/static/js/main.675d09a0.js",
-    "static/js/453.467e0a76.chunk.js": "/doingWhat/static/js/453.467e0a76.chunk.js",
-    "index.html": "/doingWhat/index.html",
-    "main.57964d29.css.map": "/doingWhat/static/css/main.57964d29.css.map",
-    "main.675d09a0.js.map": "/doingWhat/static/js/main.675d09a0.js.map",
-    "453.467e0a76.chunk.js.map": "/doingWhat/static/js/453.467e0a76.chunk.js.map"
+    "main.css": "/doingWhat.git/static/css/main.57964d29.css",
+    "main.js": "/doingWhat.git/static/js/main.f0ef23b2.js",
+    "static/js/453.467e0a76.chunk.js": "/doingWhat.git/static/js/453.467e0a76.chunk.js",
+    "index.html": "/doingWhat.git/index.html",
+    "main.57964d29.css.map": "/doingWhat.git/static/css/main.57964d29.css.map",
+    "main.f0ef23b2.js.map": "/doingWhat.git/static/js/main.f0ef23b2.js.map",
+    "453.467e0a76.chunk.js.map": "/doingWhat.git/static/js/453.467e0a76.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.57964d29.css",
-    "static/js/main.675d09a0.js"
+    "static/js/main.f0ef23b2.js"
   ]
 }
